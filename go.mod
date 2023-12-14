@@ -1,3 +1,3 @@
-module github.com/hangcodebug/go-api-module
+module github.com/chenhangch/go-api-module
 
-go 1.20
+go 1.21.5
